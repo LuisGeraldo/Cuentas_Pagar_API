@@ -1,0 +1,15 @@
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\bin\Release\netcoreapp2.1\prjCuentasxcobrar.deps.json
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\bin\Release\netcoreapp2.1\prjCuentasxcobrar.runtimeconfig.json
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\bin\Release\netcoreapp2.1\prjCuentasxcobrar.runtimeconfig.dev.json
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\bin\Release\netcoreapp2.1\prjCuentasxcobrar.dll
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\bin\Release\netcoreapp2.1\prjCuentasxcobrar.pdb
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.csproj.CoreCompileInputs.cache
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.RazorAssemblyInfo.cache
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.RazorAssemblyInfo.cs
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.AssemblyInfoInputs.cache
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.AssemblyInfo.cs
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.RazorTargetAssemblyInfo.cache
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.dll
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.pdb
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Lgeraldo\source\repos\prjCuentasxcobrar\prjCuentasxcobrar\obj\Release\netcoreapp2.1\prjCuentasxcobrar.csprojAssemblyReference.cache
